@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 97cd9a4270a8b00498b3409ccd06d2b8
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: directionalLight1
+    100002: Floor
+    100004: group
+    100006: imagePlane1
+    100008: pasted__Wall
+    100010: pointLight1
+    100012: //RootNode
+    100014: Wall
+    100016: Wall1
+    100018: Wall10
+    100020: Wall11
+    100022: Wall12
+    100024: Wall13
+    100026: Wall14
+    100028: Wall15
+    100030: Wall16
+    100032: Wall17
+    100034: Wall18
+    100036: Wall19
+    100038: Wall2
+    100040: Wall20
+    100042: Wall3
+    100044: Wall4
+    100046: Wall5
+    100048: Wall6
+    100050: Wall7
+    100052: Wall8
+    100054: Wall9
+    400000: directionalLight1
+    400002: Floor
+    400004: group
+    400006: imagePlane1
+    400008: pasted__Wall
+    400010: pointLight1
+    400012: //RootNode
+    400014: Wall
+    400016: Wall1
+    400018: Wall10
+    400020: Wall11
+    400022: Wall12
+    400024: Wall13
+    400026: Wall14
+    400028: Wall15
+    400030: Wall16
+    400032: Wall17
+    400034: Wall18
+    400036: Wall19
+    400038: Wall2
+    400040: Wall20
+    400042: Wall3
+    400044: Wall4
+    400046: Wall5
+    400048: Wall6
+    400050: Wall7
+    400052: Wall8
+    400054: Wall9
+    2100000: WallMat
+    2100002: lambert1
+    2300000: Floor
+    2300002: pasted__Wall
+    2300004: Wall
+    2300006: Wall1
+    2300008: Wall10
+    2300010: Wall11
+    2300012: Wall12
+    2300014: Wall13
+    2300016: Wall14
+    2300018: Wall15
+    2300020: Wall16
+    2300022: Wall17
+    2300024: Wall18
+    2300026: Wall19
+    2300028: Wall2
+    2300030: Wall20
+    2300032: Wall3
+    2300034: Wall4
+    2300036: Wall5
+    2300038: Wall6
+    2300040: Wall7
+    2300042: Wall8
+    2300044: Wall9
+    3300000: Floor
+    3300002: pasted__Wall
+    3300004: Wall
+    3300006: Wall1
+    3300008: Wall10
+    3300010: Wall11
+    3300012: Wall12
+    3300014: Wall13
+    3300016: Wall14
+    3300018: Wall15
+    3300020: Wall16
+    3300022: Wall17
+    3300024: Wall18
+    3300026: Wall19
+    3300028: Wall2
+    3300030: Wall20
+    3300032: Wall3
+    3300034: Wall4
+    3300036: Wall5
+    3300038: Wall6
+    3300040: Wall7
+    3300042: Wall8
+    3300044: Wall9
+    4300000: Floor
+    4300002: Wall
+    4300004: pasted__Wall
+    4300006: Wall1
+    4300008: Wall2
+    4300010: Wall3
+    4300012: Wall4
+    4300014: Wall5
+    4300016: Wall6
+    4300018: Wall7
+    4300020: Wall8
+    4300022: Wall9
+    4300024: Wall10
+    4300026: Wall11
+    4300028: Wall12
+    4300030: Wall13
+    4300032: Wall14
+    4300034: Wall15
+    4300036: Wall16
+    4300038: Wall17
+    4300040: Wall18
+    4300042: Wall19
+    4300044: Wall20
+    10800000: directionalLight1
+    10800002: pointLight1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 20
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
